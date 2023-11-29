@@ -1,3 +1,19 @@
+
+# AnotacoesGeraisParaDemonstracaoGitHubPublico
+
+Criei o projeto basico Angular Cli
+Pacote de paginacao ngx-pagination
+Tirei Strict do tsconfig.ts pois assim, posso acessar a extensao .json sem erros
+Adicionei o pacote npm -g angular-cli-ghpages para publicacao url do Github
+    Comandos para publicacao
+    
+    -   * ng build --configuration production --base-href https://andremascalves.github.io/angular-bootstrap-table-json
+    
+    -   * ngh --dir dist/angular-bootstrap-table-json
+
+    -   * 
+
+
 # AngularBootstrapTableJson
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
