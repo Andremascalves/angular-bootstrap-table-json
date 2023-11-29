@@ -3,6 +3,9 @@ import { Component } from '@angular/core';
 import OrdersJson from './orders.json';
 
 
+//https://stackblitz.com/edit/angular-e1f9hq?file=app%2Fapp.component.html
+//Exemplo de como fazer a paginacao
+
 interface ORDERS {
 
   "id": Number;
