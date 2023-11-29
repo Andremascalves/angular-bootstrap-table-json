@@ -27,6 +27,7 @@ interface ORDERS {
 export class AppComponent {
  
   title = `aa`;
+  p;
 
 
   Orders: ORDERS[] = OrdersJson;
